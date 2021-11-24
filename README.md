@@ -4,7 +4,7 @@
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PriUY&column=6&margin-w=10&margin-h=10&theme=radical" alt="PrincePranav235" /></a> </p><br/>
  <p align="middle"> <a href="https://twitter.com/@Pranavshukla_in" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"alt="@Pranavshukla_in" /></a> </p><br/>
 <h2 align="left">👦About Me:</h2>
-<p>
+
 - 🔭 I’m currently learning everything..haha..
 - 🌱 I’m currently learning **ReactJs**
 - 👨‍💻 All of my projects are available at [https://github.com/PrincePranav235](https://github.com/PrincePranav235)
@@ -13,7 +13,7 @@
 - 🥅 2021 Goals: **Contribute more to Open Source Projects**
 - ⚡ Fact: **Coming together is a beginning; keeping together is progress; working together is success.**
 - 🎸 **I love to play cricket and chess.**
-</p>
+
 <br/>
 <h2 align="center">Connect with me:</h2>
 
@@ -39,6 +39,6 @@
 <p align="middle"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrincePranav235&theme=radical" alt="PrincePranav235" /></p>
 <br>
 <h2 align="center">My Contributions Graph</h2>
-<br>
+
 
 ![](https://activity-graph.herokuapp.com/graph?username=PrincePranav235&theme=github)
