@@ -40,4 +40,4 @@
 <br>
 <!--<h2 align="center">My Contributions Graph</h2>
 ![](https://activity-graph.herokuapp.com/graph?username=PrincePranav235&theme=github)-->
-<h2 style="font-size: larger; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bolder;">THANK YOU</h2>
+<h2 style="font-size: larger; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bolder;text-align: center;">THANK YOU</h2>
