@@ -38,6 +38,5 @@
 <h2 align="center"> My Github Streak</h2>
 <p align="middle"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrincePranav235&theme=radical" alt="PrincePranav235" /></p>
 <br>
-<!--<h2 align="center">My Contributions Graph</h2>
-![](https://activity-graph.herokuapp.com/graph?username=PrincePranav235&theme=github)-->
-<h2 style="font-size: larger; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bolder;text-align: center;">THANK YOU</h2>
+
+<h2 style="font-size: larger; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bolder;text-align: center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THANK YOU</h2>
